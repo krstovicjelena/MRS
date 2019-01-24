@@ -1,0 +1,9 @@
+{
+    "symbolic_name": "placeviJelenaKrstovic2016200143",
+    "name": "Placevi",
+    "size": 30,
+    "category": "kategorija x",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "Prosirenje koje omugucava evidenciju vozila po placevima"
+}

@@ -1,0 +1,14 @@
+Plugin predsavlja prosirenje za evidenciju vozila na auto placevima.
+Korisniku se otvara prozor sa ucitanim placevima iz baze zatim korisnik moze
+dodavati li brisati placeve. Klikom na odredjeni plac iz tabele pa klikom na dugme
+"pregled vozila na placu" korisnik su otvara dialog koji prikazuje
+tabelarno koja vozila su na odabranom(kliknutom placu), zatim i tu 
+korisnik ima mogucnost dodavanja i brisanja vozila s tim sto nakon dodavanja moze
+menjati samo polje za registraciju. Prilikom dodavanja i brisanja automatski se azurira
+broj zauzetih mesta na placu klikom na OK dugme dialoga za prikaz vozila na placevima.
+Placevi su podeljenu na dve kategorija teretne i putnicke kao i vozila,
+na putnicki plac se ne moze smestiti vozilo koje je teretno i obrnuto.
+Klikom na dugme Refresh osvezava se sadrzaj u bazi.
+
+
+P.S. To bi bilo ukratko, u sustini lici na magacin temu ali malo je drugacije. 
