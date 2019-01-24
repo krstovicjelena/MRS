@@ -1,4 +1,4 @@
-Korisniku se otvara prazan prozor i mora prvo ucitati csv fajl 
+Korisniku se otvara prazan prozor i mora prvo ucitati autobusi.csv fajl 
 klikom na dugme "Ucitaj listu autobusa", nakon cega korisnik moze 
 da dodaje i brise autobuse na linijama, klikom na jedan od autobusa 
 pa klikom na dugme "Pregled rezervacija" korisniku se otvara dialog
