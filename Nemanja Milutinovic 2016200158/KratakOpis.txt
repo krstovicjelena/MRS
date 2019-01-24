@@ -1,0 +1,11 @@
+Korisniku se otvara prazan prozor i mora prvo ucitati csv fajl 
+klikom na dugme "Ucitaj listu autobusa", nakon cega korisnik moze 
+da dodaje i brise autobuse na linijama, klikom na jedan od autobusa 
+pa klikom na dugme "Pregled rezervacija" korisniku se otvara dialog
+u kome se prikazuju postojece rezervacije sa brojem karata i imenom
+onog ko je rezervisao i ovi podaci se cuvaju u csv fajlovima kao i podaci
+o autobusima. Korisnik moze da doda rezervacije i moze editovati
+broj rezervisanih karata. Moze i da ih brise na osnovu
+cega se automatski azurira broj slobodnih mesta u autobusu. Svi podaci se 
+cuvaju automatizovani u postojecim csv fajlovima.
+

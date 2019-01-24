@@ -1,0 +1,9 @@
+{
+    "symbolic_name": "autobusirezervacija",
+    "name": "AutobusiRezervacija",
+    "size": 25.2,
+    "category": "kategorija 1",
+    "version": "1.0.0",
+    "enabled": true,
+    "description": "BUS-Minus"
+}
